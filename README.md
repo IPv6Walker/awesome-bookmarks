@@ -12,4 +12,4 @@ Awesome Bookmarks 是 [@Awesome](https://github.com/topics/awesome) 主题下的
 ---
 
 
-1. [@Ynewtime](http://www.ynewtime.com)
+[@Ynewtime](http://www.ynewtime.com)
